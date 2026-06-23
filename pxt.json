@@ -7,6 +7,8 @@
         "microphone": "*"
     },
     "files": [
+        "access.ts",
+        "enums.ts"
         "main.blocks",
         "main.ts",
         "README.md"
